@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Personal Website: [yourwebsite.com](http://yourwebsite.com)
 
 ### 🔭 Projects and Contributions:
-- [Project 1](https://github.com/Satyamverma27/project1): Brief description of Project 1.
+- [Project 1](https://github.com/Satyamverma27/Client-server-architure): Brief description of Project 1.
 - [Project 2](https://github.com/Satyamverma27/project2): Brief description of Project 2.
 - [Project 3](https://github.com/Satyamverma27/project3): Brief description of Project 3.
 
